@@ -1,0 +1,14 @@
+*{
+    padding: 20px;
+    width: 600px;
+    margin: auto;
+}
+thead{
+    color: goldenrod;
+}
+.table-dark table-hover{
+    
+}
+tbody{
+    color: rebeccapurple;
+}
